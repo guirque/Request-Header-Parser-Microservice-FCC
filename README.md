@@ -1,3 +1,4 @@
 # Request Header Parser Microservice
 
-This is the boilerplate for the Request Header Parser Microservice project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/request-header-parser-microservice
+<p> Project for <a href = "https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/request-header-parser-microservice">Free Code Camp's Back End Development and APIs Certification</a>.</p>
+<p>When a user accesses <i>/api/whoami</i>, they receive a response object with their corresponding ip address, preferred language and software.</p>
